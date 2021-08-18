@@ -1,0 +1,31 @@
+body {
+    background-color: mediumslateblue;
+    
+}
+
+.form {
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid; border-color: blue;
+    height: 300px; 
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightslategrey;
+}
+
+.images {
+    align-items: center;
+}
+
+.navbar {
+    text-align: right;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
